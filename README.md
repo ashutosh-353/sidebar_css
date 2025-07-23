@@ -1,2 +1,2 @@
 # sidebar_css
-Sidebar using CSS
+Sidebar in a webpage using CSS
